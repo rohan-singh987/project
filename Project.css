@@ -1,0 +1,55 @@
+header h1{
+    text-align: center;
+    font-size: 40px;
+    color:white;
+    font-family: Over the Rainbow;
+    
+}
+
+header{
+    padding: 40px;
+    background-color: black;
+    /* background-color: blueviolet; */
+    /* background-image: url(./images/Youtube.png); */
+    /* background-repeat:round; */
+    /* background-repeat: no-repeat; */
+    /* background-position: center; */
+}
+
+nav{
+    background-color: red;
+    overflow: hidden;
+}
+
+nav a{
+    text-decoration:wavy;
+    padding: 20px;
+    text-align: center;
+    float: left;
+    color:rgb(40, 56, 56);
+    font-family: Indie Flower;
+    font-weight: bolder;
+}
+a:hover{
+    color:lightslategray;
+}
+
+/* main{
+    text-align: center;
+} */
+h2{
+    padding: 20px;
+    text-align: center;
+}
+a{
+    padding: 33px;
+}
+.span{
+    /* text-align: justify; */
+    text-align: left;
+    /* padding: 40px; */
+    /* padding: 20%; */
+}
+span{
+    padding: 105px;
+}
